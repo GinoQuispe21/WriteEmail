@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendEmail</string>
+    <string name="write_your_email">Write your Email</string>
+    <string name="enviar">Enviar</string>
+    <string name="email">Email</string>
+    <string name="ingrese_email">Ingrese Email</string>
+</resources>
