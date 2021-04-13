@@ -1,2 +1,2 @@
 # WriteEmail
-irst project using Android Studio with Kotlin
+:tada: First project using Android Studio with Kotlin :tada:
